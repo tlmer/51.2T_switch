@@ -1,0 +1,5 @@
+*.o
+*.a
+/model/tb_*
+*.bak*
+build/
